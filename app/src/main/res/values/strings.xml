@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Makovskyi41PiLab01</string>
+    <string name="button_name">Find Description</string>
+    <string-array name="professions">
+        <item>Java Developer</item>
+        <item>Android Developer</item>
+        <item>JS Developer</item>
+        <item>IOS Developer</item>
+        <item>Python Developer</item>
+
+    </string-array>
+    <string-array name="professionsDetails">
+        <item>Java Developer fdhdkjf </item>
+        <item>Android Developer dfjhdjk</item>
+        <item>JS Developer fg</item>
+        <item>IOS Developer hgjh</item>
+        <item>Python Developer gjhghj</item>
+
+    </string-array>
+</resources>
